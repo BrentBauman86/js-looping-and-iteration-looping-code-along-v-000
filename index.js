@@ -4,5 +4,5 @@ const employees = ['Lisa', 'Kaitlin', 'Jan']
 function printBadges(employees) {
   for (let i = 0; i < employees.length; i++)
   {
-  console.log()
+  console.log('Welcome ${employees}! You are employee  )
 }
