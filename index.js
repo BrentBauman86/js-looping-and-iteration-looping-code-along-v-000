@@ -1,6 +1,8 @@
 // Code your solutions in this file
-const employess = ['Lisa', 'Kaitlin', 'Jan']
+const employees = ['Lisa', 'Kaitlin', 'Jan']
 
-function printBadges() {
+function printBadges(employees) {
+  for (let i = 0; i < employees.length; i++)
+  {
   console.log()
 }
